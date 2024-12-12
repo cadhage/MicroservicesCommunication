@@ -8,10 +8,10 @@
         <version>3.3.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.patch.example</groupId>
-    <artifactId>patch.example</artifactId>
+    <groupId>com.microservice1.example</groupId>
+    <artifactId>Microservice1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>patch.example</name>
+    <name>microservice1</name>
     <description>Demo project for Spring Boot</description>
     <url/>
     <licenses>
